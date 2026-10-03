@@ -1,1 +1,1 @@
-# Dotfiles for niri, noctalia shell is needed
+## Dotfiles for niri, noctalia shell is needed
