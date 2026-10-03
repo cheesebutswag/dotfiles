@@ -75,7 +75,6 @@ layout {
 
 spawn-at-startup "noctalia"
 spawn-at-startup "waybar"
-spawn-sh-at-startup "mullvad connect";
 
 hotkey-overlay {
      skip-at-startup
